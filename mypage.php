@@ -12,7 +12,9 @@ mypage
 
 
 <body>
-
+  <form action = "" method = "post">
+    <input type = "text" name = "bookname" placeholdr = "作品名" >
+  </form>
 
 </body>
 
