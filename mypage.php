@@ -32,7 +32,7 @@ mypage
   $comment = $_POST["comment"];
   $readdate = $_POST["readdate"];
   
-  echo $bookname<br>$review<br>$comment<br>$readdate;
+  echo $bookname.<br>.$review.<br>.$comment.<br>.$readdate;
   
   ?>
 </body>
