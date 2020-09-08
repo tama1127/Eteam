@@ -15,7 +15,7 @@ mypage
   
   <form action = "" method = "post" enctype = "multipart/form-date">
     
-    /*画像の表示はされない*/
+    //画像の表示はされない
     作品アイコン<input type = "file" name = "pic"><br>    
     作品名<input type = "text" name = "bookname" placeholder = "作品名"><br>
     評価<input type = "number" name = "review" min = "1" max = "5" ><br>
