@@ -15,7 +15,8 @@
 <body>
   
   <form action = "" method = "post" enctype = "multipart/form-date">
-    
+   
+    <p>
     //画像の表示はされない
     作品アイコン<input type = "file" name = "pic"><br>    
     作品名<input type = "text" name = "bookname" placeholder = "作品名"><br>
@@ -24,7 +25,8 @@
     読み終えた日<input type = "date" name = "readdate">
     
     <input type = "submit" name = "submit">
-   
+   </p>
+     
   </form>
  <?php
   
