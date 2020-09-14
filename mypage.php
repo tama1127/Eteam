@@ -2,12 +2,13 @@
 <html lang = ja>
 
 <head>
-
-<meta charset = "UFT-8">
-<title>
-mypage
-</title>
-
+  
+  <meta charset = "UFT-8">
+  <title>
+    mypage
+  </title>
+  <link rel= "stylesheet" herf="css/master.css">
+  
 </head>
 
 
