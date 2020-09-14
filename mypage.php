@@ -7,7 +7,7 @@
   <title>
     mypage
   </title>
-  <link rel= "stylesheet" herf="css/master.css">
+  <link rel= "stylesheet" herf="stylesheet.css">
   
 </head>
 
